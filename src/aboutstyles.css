@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    background-color: black;
 }
 
 body {
@@ -8,13 +9,24 @@ body {
 
 
 
-.fullName {
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
 
+.aboutInfo {
+    display: flex;
+    justify-content: center;
 }
 
 
-/* h1 {
+
+
+.fullName {
     font-family: 'Roboto', sans-serif;
-} */
+    text-align: center;
+    color: #E31C25;
+}
+
+.aboutParagraph {
+    text-align: center;
+    color: white;
+    font-size: 12pt;
+    max-width: 400px;
+}
