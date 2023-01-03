@@ -6,10 +6,6 @@ import {
     MenuList,
     MenuItem,
     IconButton
-    // MenuItemOption,
-    // MenuGroup,
-    // MenuOptionGroup,
-    // MenuDivider,
 } from '@chakra-ui/react'
 import { HamburgerIcon } from '@chakra-ui/icons'
 
