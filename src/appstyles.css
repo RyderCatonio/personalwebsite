@@ -1,0 +1,8 @@
+.background-image {
+    background-image: url("skyline-night-large.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 1rem;
+
+}

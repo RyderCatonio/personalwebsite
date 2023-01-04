@@ -16,17 +16,20 @@ body {
     padding-right: 0.5rem;
 }
 
+
+
+
 .navbar {
     display: flex;
-    justify-content: center;
     align-items: center;
-    background-color: #252525;
     color: rgb(0, 175, 175);
+    padding-left: 0.5rem;
 }
 
 
-.name-title {
-    font-size: 1.5rem;
+.name-title p1 {
+    font-size: 20pt;
+    font-weight: bold;
     margin: .5rem;
 }
 
@@ -42,10 +45,13 @@ body {
 }
 
 .nav-items li a {
+    font-size: 15pt;
+    text-align: center;
     text-decoration: none;
     color: rgb(0, 175, 175);
     padding: 1rem;
     display: block;
+
 }
 
 
