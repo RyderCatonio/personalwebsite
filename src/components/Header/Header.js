@@ -11,7 +11,9 @@ export default function Header() {
                 </div>
                 <div className="introduction">
                     <h1>Ryder Catonio</h1>
-                    <p1>Welcome to my Personal Portfolio Website.</p1>
+                    <p1>Welcome to my personal portfolio website, where you can explore my work and learn more about me!
+
+                    </p1>
                 </div>
 
 
